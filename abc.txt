@@ -1,3 +1,4 @@
-test hahahahahahahahah
-the second edit text, haha
-the third edit text, heheh
+the first edit:  write a file to git.
+the second edit: Git is a distributed version control system.
+the third edit: Git is free software distributed under the GPL.
+the fourth edit text: Git has a mutable index called stage.
